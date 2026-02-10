@@ -1,0 +1,28 @@
+INSURANCE CLAIM FORM
+
+POLICY DETAILS
+Policy Number: POL-2024-123789
+Policyholder: Robert Martinez
+Policy Period: 2024-01-15 through 2025-01-15
+
+INCIDENT REPORT
+Date of Incident: April 5, 2024
+Time: 3:30 PM
+Location: 789 Elm Street, Denver, CO 80202
+Incident Description: Water damage to property due to burst pipe in upstairs bathroom. Water leaked through ceiling causing damage to living room furniture, hardwood floors, and electronics. Incident occurred while property was unoccupied.
+
+PARTIES INVOLVED
+Claimant: Robert Martinez
+Third Parties: None
+Contact: robert.martinez@email.com, 555-4567
+
+ASSET INFORMATION
+Type: Residential Property
+Asset ID: PROP-789-ELM-ST
+Estimated Damage: $35,000
+
+CLAIM INFORMATION
+Claim Type: Property Damage
+Attachments: damage_photos.zip, repair_estimates.pdf
+Initial Estimate: $35,000
+

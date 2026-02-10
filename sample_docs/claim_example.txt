@@ -1,0 +1,27 @@
+FIRST NOTICE OF LOSS - CLAIM DOCUMENT
+
+Policy Information:
+Policy Number: POL-2024-789456
+Policyholder Name: Sarah Johnson
+Effective Dates: January 1, 2024 to January 1, 2025
+
+Incident Information:
+Date: March 20, 2024
+Time: 10:45 AM
+Location: 456 Oak Avenue, Springfield, IL 62701
+Description: Rear-end collision occurred at traffic light intersection. The claimant's vehicle was stopped at a red light when another vehicle failed to stop and collided with the rear bumper. Damage includes rear bumper, trunk, and rear lights. No injuries reported.
+
+Involved Parties:
+Claimant: Sarah Johnson
+Third Parties: Michael Brown (driver of other vehicle)
+Contact Details: sarah.johnson@email.com, Phone: 555-9876
+
+Asset Details:
+Asset Type: 2020 Honda Accord
+Asset ID: VIN-1HGCV1F30MA123456
+Estimated Damage: $8,500.00
+
+Claim Type: Auto Collision
+Attachments: accident_photos_1.jpg, accident_photos_2.jpg, police_report.pdf
+Initial Estimate: $8,500.00
+
